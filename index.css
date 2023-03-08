@@ -6,6 +6,7 @@ body {
   text-align: center;
   background-image: url(green-economic-trains.jpg);
   background-repeat: no-repeat;
+  height: 100vh;
 }
 
 h1 {
